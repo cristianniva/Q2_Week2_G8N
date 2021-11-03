@@ -1,9 +1,9 @@
-console.log('Hi Im Mr. Cristian from your ILT Class')
+console.log('Hi Im Pawarisa from Grade8n')
 
-var name = 'Cristian', surname = 'Angulo' // how we declare/create variables
+var name = 'Pawarisa', surname = 'Khanchanaat' // how we declare/create variables
 var age = 30
 
-age = '30 years'
+age = '14 years'
 
 console.log('Hello ' + name + ' ' + surname)
 console.log('I am ' + age)
